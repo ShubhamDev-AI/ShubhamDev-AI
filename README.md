@@ -13,5 +13,5 @@
 - 🥅 2020 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 ### Project Django in Heroku:
-[Project 1]: https://djangopdapp.herokuapp.com/
-[Project 2]: https://djangobrt.herokuapp.com/
+<a href="https://djangopdapp.herokuapp.com/">[Project 1]:</a> </br>
+<a href="https://djangobrt.herokuapp.com/">[Project 2]:</a>
